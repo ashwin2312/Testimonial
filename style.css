@@ -27,6 +27,7 @@ h1{
 }
 .lists{
     /* border: 1px solid red; */
+    line-height: 1.75rem;
     padding-left: none;
 }
 .list-text{
